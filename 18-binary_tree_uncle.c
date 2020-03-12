@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 #include "9-binary_tree_height.c"
 /**
- * binary_tree_sibling - display the sibling of a node
+ * binary_tree_uncle - display the sibling of a node
  * @node: pointer to point a head of the tree
  * Return: The number storage in the node
  */
